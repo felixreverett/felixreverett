@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Felix 
+## 👋 Ciao! I'm Felix 
 
 I'm a self-taught programmer with a goal to make my dream projects a reality and ultimately work professionally in software. I mostly program in C# and JavaScript, with some previous experience in Python and SQL.
 
@@ -13,7 +13,8 @@ I'm a self-taught programmer with a goal to make my dream projects a reality and
 
 ## ✨ Have a look at some of my projects!
 
-- [**Advent of Code 2023**](https://github.com/felixreverett/AdventOfCode2023): My JavaScript solutions to the AoC 2023 puzzles
+- [**Advent Of Code 2024**](https://github.com/felixreverett/AdventOfCode2024): My JavaScript and Go solutions to AoC 2024
+- [**Advent of Code 2023**](https://github.com/felixreverett/AdventOfCode2023): My JavaScript solutions to the AoC 2023 challenges
 - [**FeloxGame**](https://github.com/felixreverett/FeloxGame): A 2D exploration game built from the ground up in C# with OpenTK
   - _Infinite, procedural terrain using Perlin noise_
   - _Entirely custom game engine_
@@ -22,5 +23,5 @@ I'm a self-taught programmer with a goal to make my dream projects a reality and
   - _Game-state saving and loading of entities and chunks using structured data_
  
 ## ⚡Some general facts about me
-- 💬 I speak three languages proficiently
+- 💬 I speak three languages
 - 📦 OOP is my preferred paradigm
