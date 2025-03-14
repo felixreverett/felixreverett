@@ -1,6 +1,6 @@
 ## 👋 Ciao! I'm Felix 
 
-I'm a self-taught programmer with a goal to make my dream projects a reality. I mostly program in C# and JavaScript, with some previous experience in Python and SQL.
+I'm a self-taught programmer with a goal to make my dream projects a reality. I mostly program in C#, JavaScript, and Go, with some previous experience in Python and SQL.
 
 <div align=center>
   
