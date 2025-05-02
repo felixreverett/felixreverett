@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Felix 
 
-I'm a self-taught programmer with a goal to make my dream projects a reality. I mostly program in Go, C#, JavaScript, with some previous experience in Python and SQL.
+I'm a self-taught programmer with a goal to make my dream projects a reality. I mostly program in Go, C#, and JavaScript, with previous experience in Python and SQL.
 
 <div align=center>
   
@@ -27,14 +27,16 @@ I'm a self-taught programmer with a goal to make my dream projects a reality. I 
   - _Interactive and responsive UI and inventory system._
   - _Game-state saving and loading of entities and chunks using structured data._
 
-## 🧠 The biggest lessons I've learnt in my years programming
-- The best language is the one that prevents human error as much as possible. This logic applies to your IDE, too.
-- Go is hands-down the most optimal programming language I've used to date. The community is wonderful, the packages are abundant, and most importantly the coding experience is a joy.
+## 🧠 The biggest lessons I've learnt in my (few) years programming
+- What's the best programming language? Or rather, what makes one *feel* better than another?
+  - I believe there is no best language, but the better languages limit human error as much as possible. Mistakes in code should be complex, not syntactic.
+- Don't underestimate error logging at potential breakpoints in your code.
+- Go is the most optimal programming language I've used to date. The community is wonderful, the packages are abundant, and most crucially **I enjoy writing it**.
 - Pointers are just a cheeky way to turn value types into reference types.
-- Recursion is not as good as you think it is.
-- Memoization is powerful, and flat-out exciting to implement.
-- Python is dogwater.
+- Recursion is not as good as you think it is. This is a note to my past self.
+- Memoization is powerful, has a fancy name, and is flat-out exciting to implement.
  
 ## ⚡Some general facts about me
-- 💬 I speak three languages, four on a good day.
+- 💬 I speak three languages, four if you catch me on a good day.
 - 📦 OOP is no longer my preferred paradigm.
+- 🌳 The best time to plant a tree was 20 years ago, the second best time is 7 June 2023.
