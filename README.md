@@ -20,7 +20,7 @@ I'm a self-taught programmer with a goal to make my dream projects a reality. I 
   - _Exports results to a Google Sheet._
 - [**Advent Of Code 2024**](https://github.com/felixreverett/AdventOfCode2024): My JavaScript and Go solutions to AoC 2024
 - [**Advent Of Code 2023**](https://github.com/felixreverett/AdventOfCode2023): My JavaScript solutions to the AoC 2023 challenges
-- [**FeloxGame**](https://github.com/felixreverett/FeloxGame): A 2D exploration game built from the ground up in C# with OpenTK
+- [**Isola**](https://github.com/felixreverett/isola): A 2D exploration game built from the ground up in C# with OpenTK
   - _Infinite, procedural terrain using Perlin noise._
   - _Entirely custom game engine._
   - _Sprite batching for efficient draw calls._
