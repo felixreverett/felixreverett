@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Felix
 [Check out my website](https://frev.cc/folio)
 
-I'm a self-taught programmer on a mission to make my dream projects a reality. I work in in Go, C#, and JavaScript, and I also have experience in Python and SQL.
+I'm a self-taught programmer on a mission to make my dream projects a reality. I work in Go, C#, and JavaScript, and I also have experience in Python and SQL.
 
 <div align=center>
   
