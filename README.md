@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Felix
 [Visit my website](https://frev.cc/folio)
 
-I’m a programmer and code enthusiast on a mission to make my dream projects a reality. I work in C#, Go, Python, and JavaScript, and I also have experience in PHP, SQL, and Assembly.
+Programmer and code enthusiast on a mission to make my dream projects a reality. I work in C#, Go, Python, and JavaScript, and I also have experience in Scala, PHP, SQL, Miranda, and Assembly.
 
 <div align=center>
   
