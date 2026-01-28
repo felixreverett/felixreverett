@@ -5,7 +5,7 @@
 
 I’m a programmer and code enthusiast on a mission to make my dream projects a reality. I work most proficiently in C#, Go, Python, and JavaScript, and I also have experience in Scala, PHP, SQL, Assembly, and some Miranda.
 
-If you want to learn more about me, I encourage you to check out my [website](https://frev.cc/folio) and [blog posts](https://frev.cc/blogs).
+If you want to learn more about me, I encourage you to check out my [website](https://frev.cc/folio) and [blog posts](https://frev.cc/folio-b).
 
 <div align=center>
   
