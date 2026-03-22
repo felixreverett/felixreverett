@@ -30,6 +30,9 @@ If you want to learn more about me, I encourage you to check out my [website](ht
   - _Interactive and responsive UI and inventory system._
   - _Game-state saving and loading of entities and chunks using structured data._
 - [**MIPS Digital Pet**](https://github.com/felixreverett/mips32-digital-pet) (Assembly): An introductory collaborative project in MIPS32 Assembly to create a tamagotchi-like digital pet. Recommended to run in the MARS virtual environment.
+- [**miranda**](https://github.com/felixreverett/miranda) (Miranda): A collection of projects and utility libraries in the Miranda language, the precursor to Haskell.
+  - _Recursive approaches to for and while loops to adhere to the constraints of immutability._
+  - _Interative implementations of simple games such as peg solitaire and minesweeper._
 
 ## 🧠 I’m really into programming theory:
 - What makes a good programming language?
